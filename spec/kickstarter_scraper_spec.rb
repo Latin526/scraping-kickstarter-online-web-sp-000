@@ -1,5 +1,3 @@
-require 'nokogiri'
-
 describe "#create_project_hash" do
 
   it "can be called on with no errors" do
